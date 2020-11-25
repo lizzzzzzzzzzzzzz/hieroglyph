@@ -58,6 +58,41 @@
 			"twt <br> second person singular <br> \"thou, thee, thy\" <br> independent",
 			"twt <br> second person singular <br> \"thou, thee, thy\" <br> independent",
 			"swt <br> third person singular <br> independent"
+		],
+		[
+		"demonstrative pronouns",
+			"pn <br> masculine singular <br> \"this, that\"",
+			"tn <br> feminine singular <br> \"this, that\"",
+			"nn <br> dual or plural <br> \"these, those\"",
+			"nn <br> dual or plural <br> \"these, those\"",
+			"pf <br> masculine singular <br> \"that\"",
+			"tf <br> feminine singular <br> \"that\"",
+			"nf <br> dual or plural <br> \"those\"",
+			"pfA <br> masculine singular <br> \"that\"",
+			"tfA <br> feminine singular <br> \"that\"",
+			"nfA <br> dual or plural <br> \"those\"",
+			"pw <br> masculine singular <br> \"this, that\"",
+			"pw <br> masculine singular <br> \"this, that\"",
+			"tw <br> feminine singular <br> \"this, that\"",
+			"tw <br> feminine singular <br> \"this, that\"",
+			"nw <br> dual or plural <br> \"these, those\"",
+			"pA <br> masculine singular <br> \"this, that\"",
+			"pA <br> masculine singular <br> \"this, that\"",
+			"pA <br> masculine singular <br> \"this, that\"",
+			"tA <br> feminine singular <br> \"this, that\"",
+			"nA <br> dual or plural <br> \"these, those\""
+		],
+		[
+		"interrogative pronouns",
+			"mj <br> \"who?\", \"what?\" <br> corresponds to dependent pronoun",
+			"mj <br> \"who?\", \"what?\" <br> corresponds to dependent pronoun",
+			"mj <br> \"who?\", \"what?\" <br> corresponds to dependent pronoun",
+			"ptr <br> \"who?\",\"what?\" <br> corresponds to independent pronoun",
+			"jx <br> \"what?\"",
+			"jSst <br> \"what?\"",
+			"zy <br> \"which?\", \"which one?\", \"which ones?\"",
+			"zy <br> \"which?\", \"which one?\", \"which ones?\"",
+			"zy <br> \"which?\", \"which one?\", \"which ones?\""
 		]
 	]	
 }
